@@ -7,7 +7,7 @@ My name is Kelly, I'm a Junior Front-end Developer at [Accenture.](https://www.a
 </p>
 
  <p>
-  <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelylima&layout=compact&theme=default">
+  <img width="200px" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelylima&layout=compact&theme=default">
 </p>
   
 
