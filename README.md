@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  [![Kelly Lima github stats](https://github-readme-stats.vercel.app/api?username=keelylima)](https://github.com/keelylima/github-readme-stats)
+
 <!--
 **keelylima/keelylima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
