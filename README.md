@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Kelly, I'm a Junior Front-end Developer at Accenture. I'm work with Angular 5+ now, but I'm studyng React and Vue. I love Design, because of that I've some knowlage about UX/UI, sometimes I helpe my team with UI issues too.
 
   [![Kelly Lima github stats](https://github-readme-stats.vercel.app/api?username=keelylima)](https://github.com/keelylima/github-readme-stats)
   
