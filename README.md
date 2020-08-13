@@ -11,7 +11,7 @@ My name is Kelly, I'm a Junior Front-end Developer at [Accenture.](https://www.a
 </p>
   
 
-
+<br>
 
 
 ## Work
