@@ -10,6 +10,8 @@ My name is Kelly, I'm a Junior Front-end Developer at [Accenture.](https://www.a
   <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelylima&layout=compact&theme=default">
 </p>
 
+<br>
+
 ## Work
 
 * 🖥 Front-end Developer - [Accenture](https://www.accenture.com/)
